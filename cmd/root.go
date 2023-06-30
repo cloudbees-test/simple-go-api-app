@@ -9,7 +9,7 @@ import (
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 
-	"github.com/swashbuck1r/simple-go-api-server/config"
+	"github.com/cloudbees-test/simple-go-api-app/config"
 )
 
 var (

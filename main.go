@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/swashbuck1r/simple-go-api-server/cmd"
+	"github.com/cloudbees-test/simple-go-api-app/cmd"
 )
 
 func main() {

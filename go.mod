@@ -1,4 +1,4 @@
-module github.com/swashbuck1r/simple-go-api-server
+module github.com/cloudbees-test/simple-go-api-app
 
 go 1.20
 

@@ -10,8 +10,8 @@ import (
 	"github.com/gin-gonic/gin"
 	"github.com/spf13/viper"
 
-	"github.com/swashbuck1r/simple-go-api-server/config"
-	"github.com/swashbuck1r/simple-go-api-server/server/middleware"
+	"github.com/cloudbees-test/simple-go-api-app/config"
+	"github.com/cloudbees-test/simple-go-api-app/server/middleware"
 )
 
 var (
