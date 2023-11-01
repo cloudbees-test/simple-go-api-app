@@ -23,7 +23,7 @@ jobs:
           go version
           CGO_ENABLED=0 GOOS=linux GOARCH=amd64 go build -ldflags="-w -s" -o build/api-server .
 
-      - name: docker login
+      - name: docker login 
         id: docker-login-step
         uses: docker://alpine:3.17
         shell: sh
